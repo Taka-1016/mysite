@@ -229,4 +229,24 @@ header nav{
 .favorite .block {
   margin: 0 auto;
 }
+
+.imac img{
+  width:calc(100% - 16px);
+  margin: 8px;
+}
+
+.ipad img{
+  width:calc(100% - 16px);
+  margin: 8px;
+}
+
+.bb434 img{
+  width:calc(100% - 16px);
+  margin: 8px;
+}
+
+.pac100 img{
+  width:calc(100% - 16px);
+  margin: 8px;
+}
 }
